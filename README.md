@@ -1,3 +1,8 @@
+Based on the Redbear lab ios example and framework
+https://github.com/RedBearLab/iOS
+
+InterbotiX compatible controller 
+
 
 Introduction
 ============
